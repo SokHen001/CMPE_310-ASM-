@@ -5,7 +5,7 @@
 gcc -nostdlib -no-pie print_hello.s -o hello
 ### Run
 ./hello
-\n
+
 ## Task_1.s
 ### Compile
 gcc -no-pie Task_1.s print_ram.c -o task1
